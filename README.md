@@ -7,4 +7,5 @@
 #### - 📫 How to reach me: [telegram](https://t.me/MaratMuhametshin)
 
 ## Skills
-C/C++, Make, CMake, Java, Maven, Docker, Git, PostgreSQL
+Java, Spring, REST API, Spring Data, Maven, Docker, Git, PostgreSQL, ELK, Redis
+C/C++, Make, CMake
